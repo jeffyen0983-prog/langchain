@@ -16,3 +16,5 @@ https://meet.google.com/itw-ewsf-fum
 4.下載模組python、jupyter、中文
 
 5.安裝mini conda並設定初始語法
+
+6.下載ollama，使用語法ollama run llama3.2:latest
