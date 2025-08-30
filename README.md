@@ -8,6 +8,11 @@ https://meet.google.com/itw-ewsf-fum
 ###上課準備動作
 
 1.安裝cursor
+
 2.安裝git
+
 3.設定初始git語法(參考講義)
-4.下載模組python、jupyter
+
+4.下載模組python、jupyter、中文
+
+5.安裝mini conda並設定初始語法
