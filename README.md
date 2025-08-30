@@ -1,0 +1,2 @@
+# langchain
+Python與LangChain生成式AI開發實戰班
