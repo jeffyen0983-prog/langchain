@@ -6,6 +6,7 @@ Python與LangChain生成式AI開發實戰班
 https://meet.google.com/itw-ewsf-fum
 
 ###講義連結
+
 https://github.com/roberthsu2003
 
 ###上課準備動作
